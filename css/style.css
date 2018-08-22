@@ -1,0 +1,25 @@
+
+h1{
+    margin: 15px;
+    padding: 10px;
+}
+
+tr{
+    border: 2.5px solid darkgray;    
+    height: 100px;
+    font-size: 3em;
+    
+    line-height: 70px;
+    
+    font-weight: 600;    
+}
+
+td{    
+    width: 33.33%;  
+    border: 2.5px solid darkgray;    
+    transition: 0.5s;
+}
+
+#newGame{
+    margin-bottom: 20px;
+}
